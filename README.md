@@ -1,5 +1,5 @@
 # msu-practicum-5semestr-
-- various algorithms in c++
+various algorithms in c++
 - first homework - введение
 - second homework - обходы графов
 - third homework - кратчайшие пути
